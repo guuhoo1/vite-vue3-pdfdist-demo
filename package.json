@@ -1,5 +1,13 @@
 {
   "name": "vite-vue3-pdfdist-demo",
+  "author": "guuhoo1",
+  "description": "vite-vue3-pdfdist-demo",
+  "main": "src/main.js",
+  "keywords": [
+    "vite",
+    "vue3",
+    "pdfjs-dist"
+  ],
   "private": true,
   "version": "0.0.0",
   "type": "module",
