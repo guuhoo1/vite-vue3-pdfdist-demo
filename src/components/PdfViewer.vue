@@ -44,7 +44,6 @@ const loadPdf = async () => {
     const task = pdfjsLib.getDocument(props.url)
     pdfDoc.value = await task.promise
     totalPages.value = pdfDoc.value.numPages
-
     renderThumb()
 }
 
